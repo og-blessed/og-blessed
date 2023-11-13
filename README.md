@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @og-blessed
+- 👋 Hi, I’m Blessed
 - 👀 I’m interested in software development (Backend)
 - 🌱 I’m currently learning Backend development.
 - 💞️ I’m looking to collaborate on projects in Backend development.
